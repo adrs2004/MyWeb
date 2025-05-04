@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="bg-[#0F172A] min-h-screen text-white">
       <Navbar />
-      <div className="px-0 sm:px-[10vh] pt-20">
+      <div className="px-0 pt-20">
         <HeroSection />
         <AboutSection />
         <Skills />
